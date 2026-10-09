@@ -1,0 +1,9 @@
+build/
+node_modules/
+.lock-waf_*
+store-assets/screenshots/first-check.png
+store-assets/screenshots/.png
+store-assets/*.zip
+.env
+.env.*
+*.log
